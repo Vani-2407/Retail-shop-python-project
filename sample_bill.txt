@@ -1,0 +1,12 @@
+🛍️ Retail Therapy Bill Receipt 🛍️
+---------------------------
+Customer: Deeps
+Phone: 6767658456
+
+Items:
+1 x Kurtas @ ₹1299 = ₹1299
+
+---------------------------
+Total Amount: ₹1299
+---------------------------
+Thank you for shopping with us! 🛍️
